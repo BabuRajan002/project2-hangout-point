@@ -9,5 +9,6 @@
 - hosts: dockerhosts
   roles:
     - docker
+    - java_maven
 
 
